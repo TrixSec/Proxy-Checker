@@ -53,3 +53,6 @@ or
 python proxy_checker.py --proxy-file proxies.txt  --threads 500 
 ```
 
+### Test Run
+
+[![LFI-Scanner](https://github.com/TrixSec/Proxy-Checker/blob/main/demo/testrun.jpg?raw=true)]
